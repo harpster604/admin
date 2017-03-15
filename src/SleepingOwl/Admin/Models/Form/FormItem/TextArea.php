@@ -1,6 +1,6 @@
 <?php namespace SleepingOwl\Admin\Models\Form\FormItem;
 
-class Textarea extends BaseFormItem
+class TextArea extends BaseFormItem
 {
 	public function render()
 	{
